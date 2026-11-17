@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="search_hint">Search title, text, or category</string>
+    <string name="add_note">Add note</string>
+    <string name="empty_title">No notes yet</string>
+    <string name="empty_body">Tap + to write your first note.</string>
+    <string name="no_notes_subtitle">No notes yet</string>
+    <string name="no_search_results">No matching notes</string>
+    <string name="note_body_empty">No additional text</string>
+    <string name="delete_note">Delete note</string>
+    <string name="delete_note_title">Delete note?</string>
+    <string name="delete_note_message">This note will be permanently removed.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="new_note">New note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="title_hint">Title</string>
+    <string name="body_hint">Write something&#8230;</string>
+    <string name="category_label">Category</string>
+    <string name="category_school">School</string>
+    <string name="category_personal">Personal</string>
+    <string name="category_ideas">Ideas</string>
+    <string name="title_required">Enter a title</string>
+    <string name="close">Close</string>
+    <string name="note_added">Note added</string>
+    <string name="note_updated">Note updated</string>
+    <string name="note_deleted">Note deleted</string>
+
+    <plurals name="note_count">
+        <item quantity="one">%1$d note</item>
+        <item quantity="other">%1$d notes</item>
+    </plurals>
+</resources>
